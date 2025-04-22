@@ -1,0 +1,729 @@
+[{
+  "_id": "c",
+  "name": "C",
+  "topics": [
+    {
+      "title": "Introduction to C",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/intro.md"
+    },
+    {
+      "title": "Getting Started with C",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/getingStart.md"
+    },
+    {
+      "title": "Syntax and Statements in C",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/syntax&statement.md"
+    },
+    {
+      "title": "C Comments",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/comments.md"
+    },
+    {
+      "title": "Output in C",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/output.md"
+    },
+    {
+      "title": "User Input in C",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/user_input.md"
+    },
+    {
+      "title": "C Variables",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/variables.md"
+    },
+    {
+      "title": "Constants in C",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/constants.md"
+    },
+    {
+      "title": "Data Types in C",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/data-type.md"
+    },
+    {
+      "title": "Booleans in C",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/boolean.md"
+    },
+    {
+      "title": "Strings in C",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/String.md"
+    },
+    {
+      "title": "Operators in C",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/operator.md"
+    },
+    {
+      "title": "Conditional Statements in C",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/conditions.md"
+    },
+    {
+      "title": "Loops in C",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/loops.md"
+    },
+    {
+      "title": "Break and Continue in C",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/break&Continue.md"
+    },
+    {
+      "title": "Arrays in C",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/arrays.md"
+    },
+    {
+      "title": "Structures in C",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/structs.md"
+    },
+    {
+      "title": "Enums in C",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/Enum.md"
+    },
+    {
+      "title": "Functions in C",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/functions.md"
+    },
+    {
+      "title": "Recursion in C",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/recursion.md"
+    },
+    {
+      "title": "Pointers in C",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/pointers.md"
+    },
+    {
+      "title": "References in C",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/Refrences.md"
+    },
+    {
+      "title": "Memory Allocation in C",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/Memory_Allocation.md"
+    },
+    {
+      "title": "Memory Management in C",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/memory_management.md"
+    },
+    {
+      "title": "Math Functions in C",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/math_func.md"
+    },
+    {
+      "title": "File Handling in C",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/Files.md"
+    }
+  ]
+},
+{
+  "_id": "cpp",
+  "name": "C++",
+  "topics": [
+    {
+      "title": "Introduction to C++",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/intro.md"
+    },
+    {
+      "title": "Getting Started with C++",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/geting_started.md"
+    },
+    {
+      "title": "C++ Syntax and Statements",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/syntax&statement.md"
+    },
+    {
+      "title": "C++ Comments",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/comments.md"
+    },
+    {
+      "title": "C++ Output",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/output.md"
+    },
+    {
+      "title": "C++ Variables",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/variables.md"
+    },
+    {
+      "title": "C++ Data Types",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/Data-Types.md"
+    },
+    {
+      "title": "C++ Booleans",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/boolean.md"
+    },
+    {
+      "title": "C++ Strings",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/String.md"
+    },
+    {
+      "title": "C++ User Input",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/user-input.md"
+    },
+    {
+      "title": "C++ Operators",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/operator.md"
+    },
+    {
+      "title": "C++ Conditional Statements",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/conditional_statement.md"
+    },
+    {
+      "title": "C++ Loops",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/Loops.md"
+    },
+    {
+      "title": "C++ Break and Continue",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/break-continue.md"
+    },
+    {
+      "title": "C++ Functions",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/Functions.md"
+    },
+    {
+      "title": "C++ Recursion",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/recurssion.md"
+    },
+    {
+      "title": "C++ Classes",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/classes.md"
+    },
+    {
+      "title": "C++ OOPs Concepts",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/oops.md"
+    },
+    {
+      "title": "C++ Access Specifiers",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/Acces_Specifire.md"
+    },
+    {
+      "title": "C++ Encapsulation",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/encapsulation.md"
+    },
+    {
+      "title": "C++ Inheritance",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/Inheritance.md"
+    },
+    {
+      "title": "C++ Polymorphism",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/Polymorphism.md"
+    },
+    {
+      "title": "C++ Enums",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/enum.md"
+    },
+    {
+      "title": "C++ Pointers",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/Pointers.md"
+    },
+    {
+      "title": "C++ References",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/References.md"
+    },
+    {
+      "title": "C++ Iterators",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/Iterators.md"
+    },
+    {
+      "title": "C++ Exceptions",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/Exceptions.md"
+    },
+    {
+      "title": "C++ Arrays",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/array.md"
+    },
+    {
+      "title": "C++ Lists",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/lists.md"
+    },
+    {
+      "title": "C++ Vectors",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/vectors.md"
+    },
+    {
+      "title": "C++ Sets",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/sets.md"
+    },
+    {
+      "title": "C++ Maps",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/Maps.md"
+    },
+    {
+      "title": "C++ Stacks",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/stacks.md"
+    },
+    {
+      "title": "C++ Queues",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/queue.md"
+    },
+    {
+      "title": "C++ Dequeues",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/dequeue.md"
+    },
+    {
+      "title": "C++ Structs",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/structs.md"
+    },
+    {
+      "title": "C++ Data Structures Overview",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/data_structure.md"
+    },
+    {
+      "title": "C++ Algorithms",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/Algorithms.md"
+    },
+    {
+      "title": "C++ Math Functions",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c++/math.md"
+    }
+  ]
+},
+{
+  "_id": "java",
+  "name": "Java",
+  "topics": [
+    {
+      "title": "Introduction to Java",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/introduction.md"
+    },
+    {
+      "title": "Java Syntax",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/syntax.md"
+    },
+    {
+      "title": "Java Comments",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/comments.md"
+    },
+    {
+      "title": "Java Output",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/output.md"
+    },
+    {
+      "title": "Java Variables",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/variables.md"
+    },
+    {
+      "title": "Java Data Types",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/data-type.md"
+    },
+    {
+      "title": "Java Type Casting",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/type-casting.md"
+    },
+    {
+      "title": "Java Booleans",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/booleans.md"
+    },
+    {
+      "title": "Java Strings",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/string.md"
+    },
+    {
+      "title": "Java Operators",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/operators.md"
+    },
+    {
+      "title": "Java Conditional Statements",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/contional-statement.md"
+    },
+    {
+      "title": "Java Loops",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/loops.md"
+    },
+    {
+      "title": "Java Break and Continue",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/break-continue.md"
+    },
+    {
+      "title": "Java Methods",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/methods.md"
+    },
+    {
+      "title": "Java Arrays",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/array.md"
+    },
+    {
+      "title": "Java Recursion",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/recurrsion.md"
+    },
+    {
+      "title": "Java Classes",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/classes.md"
+    },
+    {
+      "title": "Java OOPs Concepts",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/oops.md"
+    },
+    {
+      "title": "Java Encapsulation",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/encapsulation.md"
+    },
+    {
+      "title": "Java Inheritance",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/Inheritance.md"
+    },
+    {
+      "title": "Java Polymorphism",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/polymorphism.md"
+    },
+    {
+      "title": "Java Abstract Classes",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/abstract.md"
+    },
+    {
+      "title": "Java Enum",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/enum.md"
+    },
+    {
+      "title": "Java Inner Classes",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/innerClasses.md"
+    },
+    {
+      "title": "Java Lambda Expressions",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/lambda.md"
+    },
+    {
+      "title": "Java Packages",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/packages.md"
+    },
+    {
+      "title": "Java Exception Handling",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/exception.md"
+    },
+    {
+      "title": "Java Threads",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/Threads.md"
+    },
+    {
+      "title": "Java Data Structures",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/data_structure.md"
+    },
+    {
+      "title": "Java Math",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/math.md"
+    }
+  ]
+},
+{
+  "_id": "javascript",
+  "name": "JavaScript",
+  "topics": [
+    {
+      "title": "Introduction to JavaScript",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/intro.md"
+    },
+    {
+      "title": "Where to Use JavaScript",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/whereto.md"
+    },
+    {
+      "title": "JavaScript Syntax",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Syntax.md"
+    },
+    {
+      "title": "JavaScript Output",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/ouput.md"
+    },
+    {
+      "title": "JavaScript Variables",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Variables.md"
+    },
+    {
+      "title": "JavaScript Data Types",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/DataTypes.md"
+    },
+    {
+      "title": "JavaScript Operators",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Operator.md"
+    },
+    {
+      "title": "JavaScript Conditional Statements",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Condtional_Statement.md"
+    },
+    {
+      "title": "JavaScript Loops",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Loops.md"
+    },
+    {
+      "title": "JavaScript Break Statement",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Break.md"
+    },
+    {
+      "title": "JavaScript Functions",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Functions.md"
+    },
+    {
+      "title": "Advanced JavaScript Functions",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Functions_Advance.md"
+    },
+    {
+      "title": "JavaScript Arrays",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Array.md"
+    },
+    {
+      "title": "JavaScript Strings",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/String.md"
+    },
+    {
+      "title": "JavaScript Objects",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Objects.md"
+    },
+    {
+      "title": "JavaScript Destructuring",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Destructuring.md"
+    },
+    {
+      "title": "JavaScript Classes",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Classes.md"
+    },
+    {
+      "title": "JavaScript this Keyword",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/this.md"
+    },
+    {
+      "title": "JavaScript Prototypes",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/ProtoType.md"
+    },
+    {
+      "title": "JavaScript Modules",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Modules.md"
+    },
+    {
+      "title": "JavaScript Callback Functions",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Callbacks.md"
+    },
+    {
+      "title": "JavaScript Async",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Async.md"
+    },
+    {
+      "title": "JavaScript Asynchronous Programming",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Asynchronous.md"
+    },
+    {
+      "title": "JavaScript Promises",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Promise.md"
+    },
+    {
+      "title": "JavaScript Error Handling",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Error.md"
+    }
+  ]
+},
+{
+  "_id": "python",
+  "name": "Python",
+  "topics": [
+    {
+      "title": "Introduction to Python",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/introduction.md"
+    },
+    {
+      "title": "Python Comments",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/comments.md"
+    },
+    {
+      "title": "Python Syntax",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/syntax.md"
+    },
+    {
+      "title": "Python Variables",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/variables.md"
+    },
+    {
+      "title": "Python Data Types",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Data-Type.md"
+    },
+    {
+      "title": "Python Type Casting",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/casting.md"
+    },
+    {
+      "title": "Python User Input",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/User_input.md"
+    },
+    {
+      "title": "Python Operators",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Operator.md"
+    },
+    {
+      "title": "Python If-Else Conditions",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/if-else.md"
+    },
+    {
+      "title": "Python Boolean",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Boolean.md"
+    },
+    {
+      "title": "Python While Loops",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/while_loop.md"
+    },
+    {
+      "title": "Python For Loops",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/For_loop.md"
+    },
+    {
+      "title": "Python Lists",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Lists.md"
+    },
+    {
+      "title": "Python Tuples",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Tuples.md"
+    },
+    {
+      "title": "Python Sets",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Sets.md"
+    },
+    {
+      "title": "Python Dictionaries",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Dictionaries.md"
+    },
+    {
+      "title": "Python Arrays",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Arrays.md"
+    },
+    {
+      "title": "Python Strings",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/String.md"
+    },
+    {
+      "title": "Python String Formatting",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/String_Format.md"
+    },
+    {
+      "title": "Python Numbers and Math",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Number.md"
+    },
+    {
+      "title": "Python Math Module",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Math.md"
+    },
+    {
+      "title": "Python Functions",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Functions.md"
+    },
+    {
+      "title": "Python Lambda Functions",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Lamda.md"
+    },
+    {
+      "title": "Python Scope",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Scope.md"
+    },
+    {
+      "title": "Python Iterators",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/iterator.md"
+    },
+    {
+      "title": "Python Modules",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Modules.md"
+    },
+    {
+      "title": "Python Try-Except",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Try_Except.md"
+    },
+    {
+      "title": "Python JSON",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/JSON.md"
+    },
+    {
+      "title": "Python Classes and Objects",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Classes.md"
+    },
+    {
+      "title": "Python Inheritance",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Inheritance.md"
+    },
+    {
+      "title": "Python Polymorphism",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Polymorphism.md"
+    }
+  ]
+},
+{
+  "_id": "bash",
+  "name": "Bash",
+  "topics": [
+    {
+      "title": "Introduction to Bash and Bash Scripting",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/intro.md"
+    },
+    {
+      "title": "Applications of Bash Scripting",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/applications.md"
+    },
+    {
+      "title": "Advantages of Bash Scripting",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/advantages.md"
+    },
+    {
+      "title": "Bash Variables and Their Types",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/variables.md"
+    },
+    {
+      "title": "String Manipulation in Shell Scripting",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/string.md"
+    },
+    {
+      "title": "Operators in Bash",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/Operator.md"
+    },
+    {
+      "title": "Conditional Statements in Bash",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/Condtional.md"
+    },
+    {
+      "title": "Loops in Bash",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/Loops.md"
+    },
+    {
+      "title": "Functions in Bash",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/Functions.md"
+    },
+    {
+      "title": "Arrays in Bash",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/Arrays.md"
+    },
+    {
+      "title": "User Input in Bash",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/user-input.md"
+    },
+    {
+      "title": "File Handling in Bash",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/file_handling.md"
+    },
+    {
+      "title": "File Permissions in Bash",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/FilePermissions.md"
+    },
+    {
+      "title": "Process Management in Bash",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/Proocess.md"
+    },
+    {
+      "title": "Signal Handling in Bash",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/Signal.md"
+    },
+    {
+      "title": "Scheduling Tasks in Bash",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/schedulling.md"
+    },
+    {
+      "title": "Networking in Bash",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/Netorking.md"
+    },
+    {
+      "title": "Debugging in Bash",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/debugg.md"
+    },
+    {
+      "title": "Job Control in Bash",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/Job_Control.md"
+    },
+    {
+      "title": "Bash Scripting for System Administration",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/System_Administration.md"
+    },
+    {
+      "title": "Bash and External Tools",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/externalTool.md"
+    },
+    {
+      "title": "Error Handling in Bash",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/errorhandling.md"
+    }
+  ],
+  "__v": 0
+}]
